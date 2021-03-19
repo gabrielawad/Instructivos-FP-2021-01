@@ -20,7 +20,7 @@ Invite al teams a todas las personas que conforman el equipo y a las siguientes 
 ## 3. Conectar GitHub con replit
 Conecte el proyecto de GitHub con el team de replit.
 
-Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a:
+Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a: jmcamachor@unal.edu.co
 
 ## 4. Crear un archivo dentro del proyecto en GitHub
 Cree un archivo de markdown dentro del proyecto de GitHub con el nombre codigo_info00.md
