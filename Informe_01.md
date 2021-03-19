@@ -22,7 +22,7 @@ Conecte el proyecto de GitHub con el team de replit.
 
 Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a: jmcamachor@unal.edu.co
 
-## 4. Escribir un archivo "Hola Mundo de python en el proyecto de GitHub y ejecutarlo en el team de replit
+## 4. Escribir un archivo "Hola Mundo" de python en el proyecto de GitHub y ejecutarlo en el team de replit
 Escriba un archivo de "Hola Mundo" en formato \*.py y ejecútelo en replit en el team de replir
 
 ## 5. Crear un archivo dentro del proyecto en GitHub
