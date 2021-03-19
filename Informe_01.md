@@ -12,13 +12,13 @@ Seleccione una licencia del tipo GNU General Public License v3.0
 
 Invite al proyecto a todas las personas que conforman el equipo y a las siguientes cuentas: jmcamachor@unal.edu.co y gawad@unal.edu.co
 
-## 2. Crear un teams en replit
+## 2. Crear un team en replit
 Asigne como nombre del team el código (ej. TA_85) que se les informó durante la revisión del informe 00
 
 Invite al teams a todas las personas que conforman el equipo y a las siguientes cuentas: jmcamachor@unal.edu.co y gawad@unal.edu.co
 
 ## 3. Conectar GitHub con replit
-Conecte el proyecto de GitHub con el teams de replit.
+Conecte el proyecto de GitHub con el team de replit.
 
 Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a:
 
