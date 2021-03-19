@@ -22,18 +22,21 @@ Conecte el proyecto de GitHub con el team de replit.
 
 Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a: jmcamachor@unal.edu.co
 
-## 4. Crear un archivo dentro del proyecto en GitHub
+## 4. Escribir un archivo "Hola Mundo de python en el proyecto de GitHub y ejecutarlo en el team de replit
+Escriba un archivo de "Hola Mundo" en formato \*.py y ejecútelo en replit en el team de replir
+
+## 5. Crear un archivo dentro del proyecto en GitHub
 Cree un archivo de markdown dentro del proyecto de GitHub con el nombre codigo_info00.md
 
 Ejemplo: TA_85_info00.md
 
 Incluya en el archivo la siguiente información:
 
-### 4.1 Herramientas/aplicativos
+### 5.1 Herramientas/aplicativos
 Busque y analice al menos tres herramientas/aplicativos que realicen funciones similares a la de la aplicación que van a desarrollar. Describa sus principales características.
 
-### 4.2 software open source
+### 5.2 software open source
 Busque software open source que les pueda ser de utilidad para el desarrolo de la aplicación. Describa sus principales características.
 
-### 4.3 librerías disponibles
+### 5.3 librerías disponibles
 Identifique librerías disponibles en Python que les puedan ser de utilidad para el desarollo de la aplicación. Describa sus principales características.
