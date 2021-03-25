@@ -6,7 +6,7 @@ El objetivo del informe es elaborar el plan de trabajo para el desarrollo del pr
 ## 1. Crear un «to do list» del proyecto en GitHub
 Elabore el listado de actividades requeridas para el desarrollo del proyecto e indique los contenidos de los siguientes informes 03 a 10.
 
-En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.]](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
+En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
 
 Tenga presente los plazos límites para la entrega de los informes:
 
