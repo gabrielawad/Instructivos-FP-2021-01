@@ -8,7 +8,7 @@ En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.](https://youtube.com
 
 ## 1. Dentro del repositorio de su equipo en GitHUb cree un archivo de markdown (\*.md) con el plan de trabajo del proyecto
 
-Asigne como nombre del repositorio el código más la expresión «planTrabajo» (ej. TA_85planTrabajo).
+Asigne como nombre del archivo el código de su equipo más la expresión «planTrabajo» (ej. TA_85planTrabajo.md).
 
 Elabore el listado de actividades requeridas para el desarrollo del proyecto e indique los contenidos que tendrán cada uno de los informes 03 a 10.
 
