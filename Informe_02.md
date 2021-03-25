@@ -6,15 +6,22 @@ El objetivo del informe es elaborar el plan de trabajo para el desarrollo del pr
 ## 1. Crear un «to do list» del proyecto en GitHub
 Elabore el listado de actividades requeridas para el desarrollo del proyecto e indique los contenidos de los siguientes informes 03 a 10.
 
-En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel. encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I)
+En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.]](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
 
 Tenga presente los plazos límites para la entrega de los informes:
 
-* informe 03: 
+* informe 03: 13 horas del viernes 16 de abril.
+* informe 04: 13 horas del viernes 23 de abril.
+* informe 05: 13 horas del viernes 30 de abril.
+* informe 06: 13 horas del viernes 7 de mayo.
+* informe 07: 13 horas del viernes 14 de mayo.
+* informe 08: 13 horas del viernes 21 de mayo.
+* informe 09: 13 horas del viernes 28 de mayo.
+* informe 10: 13 horas del viernes 3 de junio.
 
-El informe 09 es el BORRADOR del informe final debe contener todos las funcionalidades esperadas de la aplicación.
+El informe 09 es el <b>BORRADOR</b> del informe final debe contener todos las funcionalidades esperadas de la aplicación.
 
-El informe 10 es la entrega DEFINITIVA del informe contiene todas las funcionalidades esperadas de la aplicación.
+El informe 10 es la entrega <b>DEFINITIVA</b> del informe contiene todas las funcionalidades esperadas de la aplicación.
 
 ### Contenidos mínimos esperados de la aplicación
 
