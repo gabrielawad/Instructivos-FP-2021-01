@@ -1,5 +1,5 @@
 # Objetivo del informe 02
-El objetivo del informe es elaborar el plan de trabajo <b>semanal<\b> para el desarrollo del proyecto.
+El objetivo del informe es elaborar el plan de trabajo <b>semanal</b> para el desarrollo del proyecto.
   
 En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
 
