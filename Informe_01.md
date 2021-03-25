@@ -23,7 +23,7 @@ Conecte el repositorio de GitHub con el team de replit.
 Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a: jmcamachor@unal.edu.co
 
 ## 4. Escribir un archivo "Hola Mundo" de python en el repositorio de GitHub y ejecutarlo en el team de replit
-Escriba un archivo de "Hola Mundo" en formato \*.py y ejecútelo en replit en el team de replir
+Escriba un archivo de "Hola Mundo" en formato \*.py y ejecútelo en replit en el team de replit.
 
 ## 5. Crear un archivo dentro del repositorio en GitHub
 Cree un archivo de markdown dentro del proyecto de GitHub con el nombre codigo_info00.md
