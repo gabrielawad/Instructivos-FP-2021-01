@@ -1,12 +1,16 @@
 # Objetivo del informe 02
-El objetivo del informe es elaborar el plan de trabajo para el desarrollo del proyecto.
+El objetivo del informe es elaborar el plan de trabajo <b>semanal<\b> para el desarrollo del proyecto.
+  
+En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
+
 
 # Actividades requeridas para el informe 02
 
-## 1. Dentro del proyecto de su equipo en GitHUb cree un «to do list» del proyecto
-Elabore el listado de actividades requeridas para el desarrollo del proyecto e indique los contenidos de los siguientes informes 03 a 10.
+## 1. Dentro del repositorio de su equipo en GitHUb cree un archivo de markdown (\*.md) con el plan de trabajo del proyecto
 
-En [Ayudas con replit y GitHub. Juan Manuel Camacho Rangel.](https://youtube.com/playlist?list=PL7VvL7ZeJVhVNHZ6CcnzsD5DRiK2ogO4I) encontrará vídeos con la explicación de algunas funcionalidades de replit y GitHub.
+Asigne como nombre del repositorio el código más la expresión «planTrabajo» (ej. TA_85planTrabajo).
+
+Elabore el listado de actividades requeridas para el desarrollo del proyecto e indique los contenidos que tendrán cada uno de los informes 03 a 10.
 
 Tenga presente los plazos límites para la entrega de los informes:
 
@@ -24,35 +28,17 @@ El informe 09 es el <b>BORRADOR</b> del informe final debe contener todos las fu
 El informe 10 es la entrega <b>DEFINITIVA</b> del informe contiene todas las funcionalidades esperadas de la aplicación.
 
 ### Contenidos mínimos esperados de la aplicación
+* Registro de usuarios (creación de cuentas y contraseñas)
+* Guardar información de usuarios
+* Acceso a funcionalidades básicas de la aplicación sin registro (público en general)
+* Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados)
+* Funcionalidades específicas según el tema del proyecto
 
 
+## 2. Dentro del repositorio de su equipo en GitHub cree un proyecto
+Asigne como nombre del proyecto el código más la expresión «proyecto» (ej. TA_85proyecto).
 
-
-## 2. Crear un team en replit
-Asigne como nombre del team el código (ej. TA_85) que se les informó durante la revisión del informe 00
-
-Invite al teams a todas las personas que conforman el equipo y a las siguientes cuentas: jmcamachor@unal.edu.co y gawad@unal.edu.co
-
-## 3. Conectar GitHub con replit
-Conecte el proyecto de GitHub con el team de replit.
+## 3. Dentro del repositorio de su equipo en GitHUb cree un «to do list» del proyecto
+Elabore el listado de actividades requeridas para el desarrollo del proyecto, indique la fecha en que espera que esté terminada cada actividad e indique a cuál de los informes corresponde.
 
 Si requiere ayuda asista a las asesorías con Juan Manuel Camacho o escríbale a: jmcamachor@unal.edu.co
-
-## 4. Escribir un archivo "Hola Mundo" de python en el proyecto de GitHub y ejecutarlo en el team de replit
-Escriba un archivo de "Hola Mundo" en formato \*.py y ejecútelo en replit en el team de replir
-
-## 5. Crear un archivo dentro del proyecto en GitHub
-Cree un archivo de markdown dentro del proyecto de GitHub con el nombre codigo_info00.md
-
-Ejemplo: TA_85_info00.md
-
-Incluya en el archivo la siguiente información:
-
-### 5.1 Herramientas/aplicativos
-Busque y analice al menos tres herramientas/aplicativos que realicen funciones similares a la de la aplicación que van a desarrollar. Describa sus principales características.
-
-### 5.2 Software open source
-Busque software open source que les pueda ser de utilidad para el desarrolo de la aplicación. Describa sus principales características.
-
-### 5.3 Librerías disponibles
-Identifique librerías disponibles en Python que les puedan ser de utilidad para el desarollo de la aplicación. Describa sus principales características.
