@@ -34,6 +34,7 @@ El informe 10 es la entrega <b>DEFINITIVA</b> del informe contiene todas las fun
 * Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados)
 * Funcionalidades específicas según el tema del proyecto
 
+Todos los informes del 03 al 09 deben incluir avances en la elaboración de los códigos requeridos para el proyecto.
 
 ## 2. Dentro del repositorio de su equipo en GitHub cree un proyecto
 Asigne como nombre del proyecto el código más la expresión «proyecto» (ej. TA_85proyecto).
