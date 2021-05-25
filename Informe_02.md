@@ -21,7 +21,7 @@ Tenga presente los plazos límites para la entrega de los informes:
 * informe 07: 13 horas del viernes 14 de mayo.
 * informe 08: 13 horas del viernes 21 de mayo.
 * informe 09: 13 horas del viernes 28 de mayo.
-* informe 10: 13 horas del viernes 3 de junio.
+* informe 10: 13 horas del viernes 4 de junio.
 
 El informe 09 es el <b>BORRADOR</b> del informe final debe contener todos las funcionalidades esperadas de la aplicación.
 
